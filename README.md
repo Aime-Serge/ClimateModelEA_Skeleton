@@ -1,9 +1,9 @@
-# ClimateModelEA
+# ClimateModelEA_Skeleton
 
 **Computational Modeling and Environmental Data Analysis for Climate Change Assessment in East Africa**
 
 **Author:** Aime Serge UKOBIZABA
-**Affiliation:** Student Researcher, Holy Spirit Ministries / Independent Scholar, Rwanda  
+**Affiliation:** Student Researcher,Independent Scholar, Rwanda  
 **Repository:** https://github.com/Aime-Serge/ClimateModelEA_Skeleton
 
 ---
