@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite as below."
+authors:
+  - family-names: Serge
+    given-names: Aime
+title: "Computational Modeling and Environmental Data Analysis for Climate Change Assessment in East Africa"
+version: 1.0.0
+date-released: 2025-11-01
+doi: "DOI_PLACEHOLDER"
+url: "https://github.com/AimeSerge/ClimateModelEA"
