@@ -2,9 +2,9 @@
 
 **Computational Modeling and Environmental Data Analysis for Climate Change Assessment in East Africa**
 
-**Author:** Aime Serge  
+**Author:** Aime Serge UKOBIZABA
 **Affiliation:** Student Researcher, Holy Spirit Ministries / Independent Scholar, Rwanda  
-**Repository:** https://github.com/AimeSerge/ClimateModelEA
+**Repository:** https://github.com/Aime-Serge/ClimateModelEA_Skeleton
 
 ---
 
@@ -29,8 +29,8 @@ ClimateModelEA contains code, data processing scripts, notebooks, and trained mo
 ClimateModelEA/
 ├─ data/                   # cleaned CSVs and metadata (DO NOT store sensitive/large raw files here)
 ├─ notebooks/              # Jupyter notebooks for EDA and modeling
-├─ src/                    # Python modules and scripts
-├─ models/                 # trained model artifacts (pickles)
+├─ src/
+|     ├─ models/          # Python modules and scripts            # trained model artifacts (pickles)
 ├─ docs/                   # supplementary figures and the project report (PDF)
 ├─ requirements.txt        # Python package requirements
 ├─ README.md               # This file
@@ -46,7 +46,7 @@ ClimateModelEA/
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/AimeSerge/ClimateModelEA.git
+git clone https://github.com/Aime-Serge/ClimateModelEA_Skeleton.git
 cd ClimateModelEA
 ```
 
@@ -102,8 +102,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-Author: **Aime Serge**  
-Email: *(please add your preferred contact email in the file)*
+Author: **Aime Serge UKOBIZABA**  
+Email: *aimeserge512@gmail.com*
 
 ---
 
